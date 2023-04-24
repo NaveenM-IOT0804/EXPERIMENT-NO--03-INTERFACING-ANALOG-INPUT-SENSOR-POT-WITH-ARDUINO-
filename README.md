@@ -53,7 +53,6 @@ FIGURE -01
 
 
 PROCEDURE:
-
 1.	Connect the circuit as per the circuit diagram 
 2.	Connect the board to your computer via the USB cable.
 3.	If needed, install the drivers.
